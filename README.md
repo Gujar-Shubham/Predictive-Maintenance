@@ -1,2 +1,2 @@
-# Predictive Maintenance - Sujata Tilak
+# Predictive Maintenance
 
